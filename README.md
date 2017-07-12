@@ -21,4 +21,4 @@
 
 ## 二、markdown语法
 
-这部分我不想多讲，可以参考github上的[GitHub flavored markdown](https://help.github.com/categories/writing-on-github/) 这是英文版的，但是借助google也足够方便。
+这部分我不想多讲，可以参考github上的[GitHub flavored markdown](https://help.github.com/categories/writing-on-github/) 这是英文版的，但是借助[google 翻译](https://translate.google.cn/)也足够方便。
