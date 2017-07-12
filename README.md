@@ -1,7 +1,7 @@
 # makeDown-atom
-public class{
-    public static void main(String[] args){
-        System.out.println("nono");
-    }
-}
+public class{  
+    public static void main(String[] args){  
+        System.out.println("nono");  
+    }  
+}  
 //abcdefg
